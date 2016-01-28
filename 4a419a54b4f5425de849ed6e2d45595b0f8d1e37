@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Thu, 28 Jan 2016 05:33:37 +0100
+Reviewed-on: https://review.gerrithub.io/261439
+Project: rdo-puppet-modules/puppetlabs-stdlib
+Branch: refs/heads/recomb-original-master-990e1d757549a9c792cf5f7113e4d6bcd592ae3d
